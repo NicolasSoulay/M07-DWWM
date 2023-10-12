@@ -1,3 +1,6 @@
 # M07-DWWM
 
-[Projet 1a](./projet1/consignes.md)
+## Projets 
+
+### [Projet 1a](./projet1/consignes.md)  
+[Groupes](./projet1/consignes.md#Groupes)
