@@ -29,9 +29,9 @@ Votre client Valentin Momin vous a engager afin de créer un site vitrine pour s
 
 ## Groupes
 
-| Groupe 1 | &#124; | Groupe 2 | &#124; | Groupe 3 | &#124; | Groupe 4 | &#124; | Groupe 5 | &#124; | Groupe 6 | 
-|----------|--------|----------|--------|----------|--------|----------|--------|----------|--------|----------|
-| Axel     | &#124; | Lilya    | &#124; | Thomas   | &#124; | Anthony  | &#124; | Thibault | &#124; | Julie    |
-| Nicolas  | &#124; | Badr     | &#124; | Corentin | &#124; | Gael     | &#124; | Nathan   | &#124; | Velvet   |
-| Ali      | &#124; | Maylis   | &#124; | Dorian   | &#124; | Kevin    | &#124; | Frederic | &#124; | Mehdi    |
-| Cyril    | &#124; |          | &#124; |          | &#124; |          | &#124; | Louis    | &#124; |          |
+| Groupe 1 | Groupe 2 | Groupe 3 | Groupe 4 | Groupe 5 | Groupe 6 | 
+|----------|----------|----------|----------|----------|----------|
+| Axel     | Lilya    | Thomas   | Anthony  | Thibault | Julie    |
+| Nicolas  | Badr     | Corentin | Gael     | Nathan   | Velvet   |
+| Ali      | Maylis   | Dorian   | Kevin    | Frederic | Mehdi    |
+| Cyril    |          |          |          | Louis    |          |
