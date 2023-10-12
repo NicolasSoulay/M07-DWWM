@@ -7,6 +7,7 @@ Maquettage, intégration design et développement d'une interface utilisateur re
 ### Presentation
 
 Votre client Valentin Momin vous a engager afin de créer un site vitrine pour son entreprise de vélomobile.
+Vous devrez l'interroger afin de definir son besoin, établir un cahier des charges, lui presenter une maquette pour enfin rendre un site fonctionnel.
 
 ### Objectif 
 
@@ -20,10 +21,6 @@ Votre client Valentin Momin vous a engager afin de créer un site vitrine pour s
 - Utilisation de CSS natif.
 - Utiliser des images libres de droits (exemple: unsplash).
 - Integrer une/des polices de caractere.
-
----
-
-## Cahier des charges 
 
 ---
 

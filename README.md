@@ -2,7 +2,7 @@
 
 ## Projets 
 
-### [Projet 1a](./projet1/consignes.md)
+### Projet 1a -> [consignes](./projet1/consignes.md)
 Création de site avec HTML5, CSS & JavaScript. 
 
 Depots github :
