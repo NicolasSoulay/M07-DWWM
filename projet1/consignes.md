@@ -6,20 +6,21 @@ Maquettage, intégration design et développement d'une interface utilisateur re
 
 ### Presentation
 
-Votre client Valentin Momin vous a engager afin de créer un site vitrine pour son entreprise de vélomobile.
-Vous devrez l'interroger afin de definir son besoin, établir un cahier des charges, lui presenter une maquette pour enfin rendre un site fonctionnel.
+Votre client Valentin Momin vous a engagé afin de créer un site vitrine pour son entreprise de vélomobile.
+Vous devrez l'interroger afin de définir son besoin, établir un cahier des charges, lui présenter une maquette, pour ensuite intégrer un site fonctionnel.
 
 ### Objectif 
 
 - Etablir un cahier des charges.
 - Créer une maquette avec une charte graphique de votre choix.
-- Integrer le site avec au minimum une landing page, une page de contact, une page de presentation.
+- Integrer le site avec au minimum une landing page, une page de contact, une page de présentation.
 - Integrer une map (soit une image statique, soit avec leaflet).
 - Le site doit etre responsive.
-- Sans utiliser de librairie javascript, essayer d'integrer un carousel et/ou un menu burger.
+- Sans utiliser de librairie javascript, éssayer d'integrer un carousel et/ou un menu burger.
 - Integrer un formulaire.
 - Utilisation de CSS natif.
-- Utiliser des images libres de droits (exemple: unsplash).
+- Utiliser des images libres de droits (ex: [unsplash](https://unsplash.com/fr)).
+- Optimiser les images pour le web (utiliser le format WEBP en priorité, utiliser des outils de compression d'images ex: [squoosh](https://squoosh.app/))
 - Integrer une/des polices de caractere.
 
 ---
