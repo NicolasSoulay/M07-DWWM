@@ -55,14 +55,14 @@ MonSite/
 ├── index.html
 ├── main.css
 ├── pages/
-│   └── landing-page.html
+│   └── contact.html
 ├── style/
 │   ├── header.css
 │   ├── footer.css
-│   └── landing-page.css
+│   └── contact.css
 └── script/
     ├── map.js
-    └── landing-page.js
+    └── contact.js
 ```
 - Integrer le site avec au minimum une landing page, une page de contact, une page de présentation.
 - Integrer une map (soit une image statique, soit avec leaflet).
