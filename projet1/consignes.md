@@ -47,22 +47,26 @@ Exemple de structure:
 ```bash
 MonSite/
 ├── assets/
-│   ├── imgs/
-│   │   └── une_images.webp
-│   └── fonts/
-│       └── ma_font/
-│           └── ma_font.ttf
-├── index.html
-├── main.css
-├── pages/
+│   ├── fonts/
+│   │   └── ma_font/
+│   │       └── ma_font.ttf
+│   └── imgs/
+│       └── une_images.webp
+├── conception/
+│   ├── cahier_des_charges.md
+│   ├── charte_graphique.pdf
+│   └── maquette.pdf
+├── html/
 │   └── contact.html
+├── script/
+│   ├── contact
+│   └── map.js
 ├── style/
-│   ├── header.css
+│   ├── contact.css
 │   ├── footer.css
-│   └── contact.css
-└── script/
-    ├── map.js
-    └── contact.js
+│   ├── header.css
+│   └── main.css
+└── index.html
 ```
 - Integrer le site avec au minimum une landing page, une page de contact, une page de présentation.
 - Integrer une map (soit une image statique, soit avec leaflet).
