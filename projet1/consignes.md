@@ -41,24 +41,24 @@ Cette analyse doit contenir:
 
 - Créer une maquette avec une charte graphique de votre choix. Vous devrez déposer votre maquette et charte graphique au format PDF dans votre dossier "conception".
 - Votre depot doit etre organisé, les fonts/image/video etc... doivent etre dans un dossier "assets". Pour le reste, à vous d'organiser vos differentes pages. Exemple de structure:  
-MonSite/
-├── assets/
-│   ├── imgs/
-│   │   └── une_images.webp
-│   └── fonts/
-│       └── ma_font/
-│           └── ma_font.ttf
-├── index.html
-├── main.css
-├── pages/
-│   └── landing-page.html
-├── style/
-│   ├── header.css
-│   ├── footer.css
-│   └── landing-page.css
-└── script  /
-    ├── map.js
-    └── landing-page.js
+MonSite/  
+├── assets/  
+│   ├── imgs/  
+│   │   └── une_images.webp  
+│   └── fonts/  
+│       └── ma_font/  
+│           └── ma_font.ttf  
+├── index.html  
+├── main.css  
+├── pages/  
+│   └── landing-page.html  
+├── style/  
+│   ├── header.css  
+│   ├── footer.css  
+│   └── landing-page.css  
+└── script/  
+    ├── map.js  
+    └── landing-page.js  
 
 - Integrer le site avec au minimum une landing page, une page de contact, une page de présentation.
 - Integrer une map (soit une image statique, soit avec leaflet).
