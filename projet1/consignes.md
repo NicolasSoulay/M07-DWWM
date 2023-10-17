@@ -40,7 +40,9 @@ Cette analyse doit contenir:
 #### Maquettage, intégration design et développement d'une interface utilisateur responsive optimisée (3 jours)
 
 - Créer une maquette avec une charte graphique de votre choix. Vous devrez déposer votre maquette et charte graphique au format PDF dans votre dossier "conception".
-- Votre depot doit etre organisé, les fonts/image/video etc... doivent etre dans un dossier "assets". Pour le reste, à vous d'organiser vos differentes pages. Exemple de structure:  
+- Votre depot doit etre organisé, les fonts/image/video etc... doivent etre dans un dossier "assets". Pour le reste, à vous d'organiser vos differentes pages.  
+
+Exemple de structure:  
 
 ```bash
 MonSite/
