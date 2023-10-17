@@ -59,7 +59,7 @@ MonSite/
 ├── html/
 │   └── contact.html
 ├── script/
-│   ├── contact
+│   ├── contact.js
 │   └── map.js
 ├── style/
 │   ├── contact.css
