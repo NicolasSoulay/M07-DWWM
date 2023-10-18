@@ -84,10 +84,10 @@ MonSite/
 
 ## Groupes
 
-| Groupe 1 | Groupe 2 | Groupe 3 | Groupe 4 | Groupe 5 | Groupe 6 (dispatch temporaire) | 
-|----------|----------|----------|----------|----------|----------|
-| Axel     | Lilya    | Thomas   | Anthony  | Thibault | Julie    |
-| Nicolas  | Badr     | Corentin | Gael     | Nathan   | Velvet   |
-| Ali      | Maylis   | Dorian   | Kevin    | Frederic | Mehdi    |
-| Cyril    | Julie    |          | Velvet   | Louis    |          |
-|[Depot](https://github.com/users/nicolasbilic/projects/1/views/1) |[Depot](https://github.com/badreddinemimouni/Projet1-Groupe2) |[Depot](https://github.com/NairoD34/Projet-1-Diginamic) |[Depot](https://github.com/Somenae/projetBobo) |[Depot](https://github.com/Thiblt/Projet1AGroupe5.git) |[Depot]() |
+| Groupe 1 | Groupe 2 | Groupe 3 | Groupe 4 | Groupe 5 | 
+|----------|----------|----------|----------|----------|
+| Axel     | Lilya    | Thomas   | Anthony  | Thibault |
+| Nicolas  | Badr     | Corentin | Gael     | Nathan   |
+| Ali      | Maylis   | Dorian   | Kevin    | Frederic |
+| Cyril    | Julie    | Mehdi    | Velvet   | Louis    |
+|[Depot](https://github.com/users/nicolasbilic/projects/1/views/1) |[Depot](https://github.com/badreddinemimouni/Projet1-Groupe2) |[Depot](https://github.com/NairoD34/Projet-1-Diginamic) |[Depot](https://github.com/Somenae/projetBobo) |[Depot](https://github.com/Thiblt/Projet1AGroupe5.git) |
