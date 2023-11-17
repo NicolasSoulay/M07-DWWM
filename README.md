@@ -2,10 +2,10 @@
 
 ## Projets 
 
-### [Projet 1a](./projet1/consignes.md)
+### [Projet 1a](./projet1a/consignes.md)
 Création de site avec HTML5, CSS & JavaScript. 
 
-### [Projet 1b]()
+### [Projet 1b](./projet1b/consignes.md)
 Développer le back-end d'un site internet avec PHP, SQL.
 
 ### [Projet 2]()
