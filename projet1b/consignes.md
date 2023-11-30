@@ -23,7 +23,7 @@ L'UX design ne sera faite que si vous en avez le temps.
 
 ## Exemple d'évolution du mini-framework par Nico
 
-[Lien du depot] (https://github.com/NicolasSoulay/)
+[Lien du depot] (https://github.com/NicolasSoulay/ProjectManager)
 
 ---
 ## Groupes
