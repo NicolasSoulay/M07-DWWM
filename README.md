@@ -8,7 +8,7 @@ Création de site avec HTML5, CSS & JavaScript.
 ### [Projet 1b](./projet1b/consignes.md)
 Développer le back-end d'un site internet avec PHP, SQL.
 
-### [Projet 2]()
+### [Projet 2](./projet2b/consignes.md)
 Analyse des besoins utilisateurs, maquettage et développement d'un site internet avec un CMS.
 
 ### [Projet 3]()
